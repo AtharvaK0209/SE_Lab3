@@ -9,6 +9,6 @@ function addStudent() {
 
         document.getElementById("studentList").appendChild(li);
 
-        document.getElementById("studentName").value = "";
+        document.getElementById("studentName).value = "";
     }
 }
